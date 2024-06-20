@@ -1,0 +1,52 @@
+.heading {
+    color: #121212;
+    width: 380px;
+    display: flex;
+    justify-content: center;
+}
+
+.stadium-image {
+    display: flex;
+    justify-content: center;
+    width: 380px;
+    border-width: 3px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 380px;
+    padding: 20px 0;
+    margin-left: 40px;
+
+}
+
+.button-layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 380px;
+}
+
+.enter-your-email-btn {
+    width: 200px;
+    height: 40px;
+    border-width: 3px;
+    color: gray;
+    margin: 10px 0;
+}
+
+.join-now-btn {
+    color: #fff;
+    width: 200px;
+    height: 40px;
+    background-color: #121212;
+}
+
+.terms-service-layout {
+    display: flex;
+    justify-content: center;
+    width: 380px;
+}
